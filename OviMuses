@@ -1,108 +1,205 @@
-#EXTM3U OviMuse - PUBLIC LIST
+#EXTM3U
+#EXTM3U:0  ,OviMuse - PUBLIC LIST
 #EXTINF:0  ,■OviMuseIPTV■
-#EXTINF:0  ,Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:0  ,Actualitatea TV
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:0  ,Actualitatea TV
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:0  ,Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0  ,Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0  ,B1
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0  ,B1
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:0  ,Digi24
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0  ,Digi24
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0  ,Digi24
-http://82.76.40.76/digi24edge/digi24.smil/.m3u8
-#EXTINF:0  ,Digi24
-http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
-#EXTINF:0  ,Digi24
-http://82.76.40.76/digi24edge/digi24.smil/chunklist_w1778144118_b2830400_sleng.m3u8
-#EXTINF:0  ,Digi24
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0  ,Digi24
-http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
-#EXTINF:0  ,Digi24
-http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
-#EXTINF:0  ,MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0  ,MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0  ,Pro TV
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0  ,Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF:0  ,Pro TV News
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0  ,MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0  ,TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:0  ,TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:0  ,TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8#EXTINF:0,Radio ZU
-https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
-#EXTINF:0  ,Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream
-#EXTINF:0  ,Radio ZU
-https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
-#EXTINF:0  ,UTV
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
-#EXTINF:0  ,UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
-#EXTINF:0  ,ROMANIA TV SD
-http://193.228.153.231:4243/bysid/125
-#EXTINF:0  ,ANTENA 3 SD 
-http://193.228.153.231:4240/bysid/120
-#EXTINF:0  ,REALITATEA PLUS
-http://78.109.108.62:6012/realitatea
-#EXTINF:0 ,⚽️EUROSPORT 1 INT HD
-http://188.214.39.67:5653/esr
-#EXTINF:0 ,⚽️EUROSPORT 1 INT
-http://89.32.204.79:8004/play/a045/index.m3u8
-#EXTINF:0 ,PRO TV NEWS
-http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
-#EXTINF:0 ,PRO TV 
-https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
-#EXTINF:0 ,PRO X  
-https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
-#EXTINF:0 ,PRO CINEMA
-https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:0 ,PRO 2 
-https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
-#EXTINF:0 ,PRO GOLD 
-https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
-#EXTINF:0 ,PRO TV FHD
-http://89.38.8.131:39532
-#EXTINF:0 ,PRO TV SD
-http://193.228.153.231:4241/bysid/30
-#EXTINF:0 ,PRO CINEMA SD
-http://193.228.153.231:4241/bysid/340
-#EXTINF:0 ,ANTENA 1 SD
-http://193.228.153.231:4240/bysid/40
-#EXTINF:0 ,KANAL D SD
-http://193.228.153.231:4240/bysid/50
-#EXTINF:0 ,NATIONAL 24 PLUS SD  
-http://193.228.153.231:4243/bysid/537
-#EXTINF:0 ,PRIMA SD
-http://193.228.153.231:4242/bysid/60
-#EXTINF:0 ,ANTENA PLAY COMEDY
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
-#EXTINF:0 ,ANTENA PLAY MONDEN
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0 ,ANTENA PLAY COOK  
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
-#EXTINF:0 ,KISS TV
-http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
-#EXTINF:0 ,ROCK TV
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
-#EXTINF:-1,RO(L): TLC SD
-http://topiptv.net:5890/adam2019/adam2020/67893
-
+#EXTM3U
+#PLAYLIST:Romania
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",1 Music Channel
+https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/f5Ddkx2.png" group-title="Undefined",6 TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/hUzHpez.png" group-title="Undefined",6TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Actualitatea TV
+https://ch.iptvmate.net/ea559c21ffdc7d7565de95ddbe5f0248.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Actualitatea TV
+https://ch.iptvmate.net/6ec9333f2c6069235fe47686145f880e.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/n9igzhr.png" group-title="Undefined",Actualitatea TV
+http://46.214.146.46:81/tv4/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Acum TV
+https://ch.iptvmate.net/a28d7d00544831b16479ec1ce5019347.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="Undefined",Agro TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Alfa Omega TV
+https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Alfa Omega TV
+https://ch.iptvmate.net/99ab43b8e05b44765cee828fc5deafb8.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MD;RO" tvg-logo="" group-title="Religious;Undefined",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Alpha Media TV
+https://ch.iptvmate.net/b89a67f98c4bdf4ba649e3a16be4388e.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/tH624pc.png" group-title="Comedy",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Comedy
+https://ch.iptvmate.net/8e00b8e53dfd2f3522d4c70bac04e3ee.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://vignette.wikia.nocookie.net/catalinfonts/images/e/e5/Cook%26play_logo_2013.png" group-title="Undefined",Antena Cook and PLay
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Cook and PLay
+https://ch.iptvmate.net/163f3c3c469dde8877d72633c6c9a84f.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/6R5TLlc.png" group-title="Undefined",Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Monden
+https://ch.iptvmate.net/d9d6031a2f72cf16ada2d512aadbbb66.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="Undefined",B1
+http://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1
+https://ch.iptvmate.net/f971a1699633eca2551d622a7e168e25.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1
+https://ch.iptvmate.net/933c17c08861eaaa598c1399594b0c4c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="Undefined",B1
+http://stream.adunity.com/b1/b1_640-.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/JZW1rg4.png" group-title="Movies",BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bit TV
+https://ch.iptvmate.net/e475be4b644ee15fda55be982564f454.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO;US" tvg-logo="" group-title="Undefined",Bit TV,Bit TV Pascani
+http://46.214.146.46:81/tv2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucovina TV
+https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucovina TV
+https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Undefined",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Undefined",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Canal33
+https://ch.iptvmate.net/19aba6b8a50fe463c02ea467a95ff460.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/Tyrzwr2.png" group-title="Undefined",Columna TV
+rtmp://columna1.arya.ro/live/columnatv1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Credo TV
+https://ch.iptvmate.net/78c274e86d422686ab3b4e36d9103933.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="Music",Credo TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="Music",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cromtel TV
+https://ch.iptvmate.net/b7a3d82f3da34b12a19def05d624a8e1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Diaspora TV
+https://ch.iptvmate.net/22c91b242794817fc5830052c8ef9315.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi24
+https://ch.iptvmate.net/15adbb78754788ddc959f547844736fd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi24
+https://ch.iptvmate.net/56f3face6742c47f54a6672d82f86759.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi24
+https://ch.iptvmate.net/f874fc6b10f7dabe9476205788fdd41b.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi24
+https://ch.iptvmate.net/ca415301856c42a36e0868f57568a62f.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi24
+https://ch.iptvmate.net/3656e73614f5e79867e98aa015500f31.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi24
+https://ch.iptvmate.net/e77af2d15dae8e7fc8d0e321e692ecad.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi24
+https://ch.iptvmate.net/88ea390ce4695cbf1af1e7bcbcfdf620.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi24
+https://ch.iptvmate.net/612b1e6fc5763d0a6ada011f2ca26921.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",EST TV
+https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" group-title="Undefined",EST TV Neamt
+http://89.38.8.130:39435?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Elita TV
+https://ch.iptvmate.net/5bc8b10434c5bcb986d69c7a8c18f4cb.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Iasi TV Life
+https://ch.iptvmate.net/b92859b8b4ced9bf3910dd983d662fc0.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/0j1matP.jpg" group-title="Undefined",Inedit
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Infinit TV
+https://ch.iptvmate.net/9c9f79c3c4ef9e57a66371332dff2657.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Info HD
+https://ch.iptvmate.net/21b26cbdbcf7a03cff650de4aa730c2f.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="Undefined",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Intermedia TV
+https://ch.iptvmate.net/7e92d15f00213b7f4a48960350ab7db1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kaptial TV
+https://ch.iptvmate.net/29aea00b6c7e3e688083d18f96789d13.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/N162WWZ/mdi-tv-ro.jpg" group-title="Undefined",MDI TV
+rtmp://89.33.78.174/live/livestream?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/fw2fTCA.jpg" group-title="Music",MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" group-title="Music",MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" group-title="Music",MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/cgJNpv9.png" group-title="Music",MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7q7gu4n.png" group-title="Undefined",Mooz Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/a5euWt1.png" group-title="Undefined",Mooz HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/W3YkqXn.png" group-title="Undefined",Mooz Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/tm4gMJF/Muscel-TV-RO.png" group-title="Undefined",Muscel TV
+mmsh://musceltvlive.muscel.ro:8080?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NEst TV
+https://ch.iptvmate.net/33044bb9a4a365ff50eb711a6a079611.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Orizont TV
+https://ch.iptvmate.net/deb0b2f69ed3462bfdb4b686a387fc17.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/2dgyYGy/Ploiesti-TV.jpg" group-title="Undefined",Ploiesti TV
+rtmp://v1.arya.ro:1935/live/ptv1.flv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV News
+https://ch.iptvmate.net/c7876ec2c0f074fa8aaf0f00b226c044.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV News
+https://ch.iptvmate.net/3b535949f7e027cc567277c70224515c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MD;RO" tvg-logo="" group-title="News;Undefined",Pro TV News,Pro X
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Profit.ro
+https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/xM1dw57.png" group-title="Undefined",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" group-title="Undefined",Rapsodia TV
+rtmp://rapsodia1.arya.ro/live/rapsodiatv1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/Ae1Klb2.png" group-title="Undefined",Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Realitatea TV
+https://ch.iptvmate.net/3d5810f4977ab3247bf7b5f7ad03d6e2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Sangeorz TV
+https://ch.iptvmate.net/7dc7aaf375f66dd8ea52851e19954946.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Somax TV
+https://ch.iptvmate.net/829c83608f5131812c3994a262cfa340.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Undefined",Speranta TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/0CbAlXu.png" group-title="Undefined",TV CITY
+http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/44ZcVs5/tv-se-mangalia-ro.jpg" group-title="Undefined",TV SE
+http://89.38.8.130:39419?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV SE
+https://ch.iptvmate.net/d70fbf6bb5de6d71ac64f359ada1342b.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="Undefined",TVPlus Suceava
+http://85.186.146.34:8080?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVPlus Suceava
+https://ch.iptvmate.net/0a00fed7fb7f4e9049d36b64391bfe96.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/xyu1yKB.png" group-title="Undefined",TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1
+https://ch.iptvmate.net/e9b4e8085f5143cf58cbeb71433b2e81.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/ASFXz4f.png" group-title="Undefined",TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
+https://ch.iptvmate.net/0f1fa34f585a2b154408fde6fd5c4f1f.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 3
+https://ch.iptvmate.net/fcc08023da9b9343fe42a703574ead75.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/pb2nnKU.png" group-title="Undefined",TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR Cluj
+https://ch.iptvmate.net/8c94f066b6fa9af40e746e12f9153081.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/2QPJrkY.png" group-title="Undefined",TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR Craiova
+https://ch.iptvmate.net/313dc2be76f8777149bf88f8dacaa295.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="Undefined",TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR HD
+https://ch.iptvmate.net/2c484c3eb74b2e6c9c3f969f183b2100.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/ouVOW2q.png" group-title="Undefined",TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR Iasi
+https://ch.iptvmate.net/40c38d7ce8e052f0647ed5c4056dbaba.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="Undefined",TVR Iasi
+http://82.208.151.107:8088/high/tvriasi/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/JIdvsc1.png" group-title="General",TVR International
+http://89.136.209.33:1935/liveorigin/TVRI.smil/playlist.m3u8?checkedby:iptvcat.com
