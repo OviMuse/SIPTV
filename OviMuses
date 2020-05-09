@@ -1,226 +1,108 @@
 #EXTM3U OviMuse - PUBLIC LIST
 #EXTINF:0  ,■OviMuseIPTV■
-#EXTINF:0  ,TVR 1 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/15393
-#EXTINF:0  ,TVR 1 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14581
-#EXTINF:0  ,Pro TV HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/25754
-#EXTINF:0  ,Pro TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14591
-#EXTINF:0  ,Antena 1 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/23851
-#EXTINF:0  ,Antena 1 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14636
-#EXTINF:0  ,KANAL D RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14601
-#EXTINF:-1,TVR 2 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14580
-#EXTINF:-1,TVR 3 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/15391
-#EXTINF:-1,TVR International RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/15386
-#EXTINF:-1,Pro TV International RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14589
-#EXTINF:-1,Prima TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14642
-#EXTINF:-1,B1 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14632
-#EXTINF:-1,NaÈ›ional TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14595
-#EXTINF:-1,Digi 24 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14627
-#EXTINF:-1,Realitatea TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14641
-#EXTINF:-1,Antena 3 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14637
-#EXTINF:-1,Romania TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14587
-#EXTINF:-1,National 24 Plus RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30443
-#EXTINF:-1,PRO 2 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32689
-#EXTINF:-1,PRO 2 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14635
-#EXTINF:-1,Pro Gold RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14648
-#EXTINF:-1,Antena Stars RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14638
-#EXTINF:-1,Happy Channel RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/13385
-#EXTINF:-1,Fine Living RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14645
-#EXTINF:-1,E! RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32882
-#EXTINF:-1,Cartoon Network RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14631
-#EXTINF:-1,Disney Channel RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14614
-#EXTINF:-1,Disney Junior RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14613
-#EXTINF:-1,Minimax RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14644
-#EXTINF:-1,Nickelodeon RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32815
-#EXTINF:-1,NickToons RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32823
-#EXTINF:-1,Boomerang RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/31960
-#EXTINF:-1,JimJam RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/31961
-#EXTINF:-1,Duck TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30308
-#EXTINF:-1,Animal Planet HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30444
-#EXTINF:-1,Animal Planet RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14626
-#EXTINF:-1,Discovery Channel RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/24904
-#EXTINF:-1,Discovery Science RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/27675
-#EXTINF:-1,Discovery Showcase HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30445
-#EXTINF:-1,History RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14603
-#EXTINF:-1,National Geographic RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14596
-#EXTINF:-1,National Geographic Wild HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32691
-#EXTINF:-1,National Geographic Wild RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14593
-#EXTINF:-1,Digi Life RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14624
-#EXTINF:-1,Digi World HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14619
-#EXTINF:-1,DTX RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30446
-#EXTINF:-1,BBC Earth RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30307
-#EXTINF:-1,Travel Channel HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/31520
-#EXTINF:-1,TLC RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14616
-#EXTINF:-1,Da Vinci Learning RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14628
-#EXTINF:-1,DocuBox RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/23947
-#EXTINF:-1,Cinethronix RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30312
-#EXTINF:-1,Eurosport RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32884
-#EXTINF:-1,Eurosport 1 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14609
-#EXTINF:-1,Eurosport 2 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14610
-#EXTINF:-1,Digi Sport 1 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/20428
-#EXTINF:-1,Digi Sport 1 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14623
-#EXTINF:-1,Digi Sport 2 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/20427
-#EXTINF:-1,Digi Sport 2 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14622
-#EXTINF:-1,Digi Sport 3 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14621
-#EXTINF:-1,Digi Sport 4 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14620
-#EXTINF:-1,Telekom Sport 1 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/16546
-#EXTINF:-1,Telekom Sport 2 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/24226
-#EXTINF:-1,Telekom Sport 3 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/24227
-#EXTINF:-1,Telekom Sport 4 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/24228
-#EXTINF:-1,LookSport HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/27539
-#EXTINF:-1,LookPlus RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14599
-#EXTINF:-1,Pro X HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32690
-#EXTINF:-1,Pro X RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14640
-#EXTINF:-1,Extreme Sports Channel RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/31962
-#EXTINF:-1,HBO RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14604
-#EXTINF:-1,HBO FHD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/27550
-#EXTINF:-1,HBO 2 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32877
-#EXTINF:-1,HBO 2 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/16559
-#EXTINF:-1,HBO 3 HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32878
-#EXTINF:-1,HBO 3 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14605
-#EXTINF:-1,Cinemax HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14629
-#EXTINF:-1,Cinemax 2 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/16558
-#EXTINF:-1,Film Now HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/27662
-#EXTINF:-1,AXN HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14634
-#EXTINF:-1,AXN White RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14660
-#EXTINF:-1,AXN Black RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14661
-#EXTINF:-1,AXN Spin RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32879
-#EXTINF:-1,AMC RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14647
-#EXTINF:-1,TNT RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32880
-#EXTINF:-1,CineMaraton HD RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30309
-#EXTINF:-1,Film Cafe RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14607
-#EXTINF:-1,Diva Universal RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14612
-#EXTINF:-1,Paramount Channel RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14633
-#EXTINF:-1,TV 1000 RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14582
-#EXTINF:-1,FilmBox RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32886
-#EXTINF:-1,FilmBox Premium RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32885
-#EXTINF:-1,Bollywood TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32883
-#EXTINF:-1,Pro Cinema RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14590
-#EXTINF:-1,Comedy Central RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32816
-#EXTINF:-1,Magic TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30310
-#EXTINF:-1,Rock TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30311
-#EXTINF:-1,U TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14579
-#EXTINF:-1,Kiss TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14600
-#EXTINF:-1,ZU TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/23853
-#EXTINF:-1,Mooz Dance RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/27674
-#EXTINF:-1,Mooz RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/18332
-#EXTINF:-1,1 Music Channel RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14597
-#EXTINF:-1,Taraf TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14584
-#EXTINF:-1,Hora TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/30306
-#EXTINF:-1,Etno TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14611
-#EXTINF:-1,Favorit TV RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14608
-#EXTINF:-1,Mezzo RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/32881
-#EXTINF:-1,â–¬ Romania [RO] â–¬
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/16518
-#EXTINF:-1,Film Now RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/14250
-#EXTINF:-1,Nick Jr. RO
-http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/37671
+#EXTINF:0  ,Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:0  ,Actualitatea TV
+http://46.214.146.46:81/tv4/playlist.m3u8
+#EXTINF:0  ,Actualitatea TV
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:0  ,Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0  ,Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0  ,B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0  ,B1
+http://stream.adunity.com/b1/b1_640-.m3u8
+#EXTINF:0  ,Digi24
+http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0  ,Digi24
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0  ,Digi24
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+#EXTINF:0  ,Digi24
+http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
+#EXTINF:0  ,Digi24
+http://82.76.40.76/digi24edge/digi24.smil/chunklist_w1778144118_b2830400_sleng.m3u8
+#EXTINF:0  ,Digi24
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0  ,Digi24
+http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
+#EXTINF:0  ,Digi24
+http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
+#EXTINF:0  ,MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0  ,MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0  ,Pro TV
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0  ,Pro TV News
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
+#EXTINF:0  ,Pro TV News
+http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+#EXTINF:0  ,MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0  ,TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:0  ,TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0  ,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8#EXTINF:0,Radio ZU
+https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
+#EXTINF:0  ,Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream
+#EXTINF:0  ,Radio ZU
+https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
+#EXTINF:0  ,UTV
+http://81.196.0.126/utvedge/utvlive/playlist.m3u8
+#EXTINF:0  ,UTV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+#EXTINF:0  ,ROMANIA TV SD
+http://193.228.153.231:4243/bysid/125
+#EXTINF:0  ,ANTENA 3 SD 
+http://193.228.153.231:4240/bysid/120
+#EXTINF:0  ,REALITATEA PLUS
+http://78.109.108.62:6012/realitatea
+#EXTINF:0 ,⚽️EUROSPORT 1 INT HD
+http://188.214.39.67:5653/esr
+#EXTINF:0 ,⚽️EUROSPORT 1 INT
+http://89.32.204.79:8004/play/a045/index.m3u8
+#EXTINF:0 ,PRO TV NEWS
+http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
+#EXTINF:0 ,PRO TV 
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+#EXTINF:0 ,PRO X  
+https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
+#EXTINF:0 ,PRO CINEMA
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0 ,PRO 2 
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0 ,PRO GOLD 
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+#EXTINF:0 ,PRO TV FHD
+http://89.38.8.131:39532
+#EXTINF:0 ,PRO TV SD
+http://193.228.153.231:4241/bysid/30
+#EXTINF:0 ,PRO CINEMA SD
+http://193.228.153.231:4241/bysid/340
+#EXTINF:0 ,ANTENA 1 SD
+http://193.228.153.231:4240/bysid/40
+#EXTINF:0 ,KANAL D SD
+http://193.228.153.231:4240/bysid/50
+#EXTINF:0 ,NATIONAL 24 PLUS SD  
+http://193.228.153.231:4243/bysid/537
+#EXTINF:0 ,PRIMA SD
+http://193.228.153.231:4242/bysid/60
+#EXTINF:0 ,ANTENA PLAY COMEDY
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
+#EXTINF:0 ,ANTENA PLAY MONDEN
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0 ,ANTENA PLAY COOK  
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+#EXTINF:0 ,KISS TV
+http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
+#EXTINF:0 ,ROCK TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
+#EXTINF:-1,RO(L): TLC SD
+http://topiptv.net:5890/adam2019/adam2020/67893
+
