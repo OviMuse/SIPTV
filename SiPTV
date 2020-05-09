@@ -1,9 +1,9 @@
-#EXTM3U KOKOSH - PUBLIC LIST
-#EXTINF:0  ,■kokoshIPTV FREE■
+#EXTM3U OviMuse - PUBLIC LIST
+#EXTINF:0  ,■OviMuseIPTV FREE■
 http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
 #EXTINF:0  ,■last update: 02/05/2020 ■
 http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:0  ,KOKOSH
+#EXTINF:0  ,OviMuse
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 ####################################################
 #EXTINF:0  ,DIGI 24 SD
