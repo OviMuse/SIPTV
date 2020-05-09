@@ -1,0 +1,7 @@
+#EXTM3U OviMuse - PUBLIC LIST
+#EXTINF:0  ,■OviMuseIPTV■
+http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
+#EXTINF:0  ,Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:0  ,Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
