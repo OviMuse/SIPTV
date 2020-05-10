@@ -1,4 +1,12 @@
-#EXTINF:-1  , Pro TV
-https://click-on-this-now.online/lp/new-lps/lp2/?tag=999760&tag1=musicplayer&tag2=2902723&tag3=999760&tag4=dating&clickid=f65257d894cff99e5dc0332fa9d48c52-4888-0510&device=Desktop&brand=Desktop&model=Desktop&country=AT&affid=999760&subid=2902723&ln=ro&cid=AT&useragent=%7Bvar:useragent%7D&ip=&bv=Chrome%2081&as=pc
+#EXTINF:-1  , ProTV
+http://publictv.ro/tv-live/pro-tv
 #EXTINF:-1  ,History 
 http://www.getsatellite.com/channels/history-international.png 
+#EXTINF:-1  , Antena 1 
+http://publictv.ro/tv-live/antena-1
+#EXTINF:0  , ProTV
+http://publictv.ro/tv-live/pro-tv
+#EXTINF:0  ,History 
+http://www.getsatellite.com/channels/history-international.png 
+#EXTINF:0  , Antena 1 
+http://publictv.ro/tv-live/antena-1
